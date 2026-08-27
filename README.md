@@ -42,9 +42,9 @@ def make_username(first_name, last_name): #defines name and function of variable
 
 Create a function named swap bookends() that accepts a list containing at least two elements. Unpack
 the list into three variables:
-• First – the first element;
-• Middle – a list containing everything between the first and last elements; and
-• Last – the last element.
+1. First – the first element;
+2. Middle – a list containing everything between the first and last elements; and
+3. Last – the last element.
 Using these variables, return a new list in which the first and last elements have exchanged positions.
 The elements in the middle must remain in their original order. Do not modify the input list.
 
